@@ -1,6 +1,10 @@
 <!-- 🖤 Crafted by Bhawandeep | github.com/bhawandeep -->
 
-<h1 align="center">Hey there 👋, I'm <span style="color:#58a6ff;">Bhawandeep</span></h1>
+<!-- Animated Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:1F6FEB&height=200&section=header&text=Bhawandeep%20👨‍💻&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" />
+</p>
+
 <h3 align="center">🌐 Web Developer • Jack of All Trades • Lifelong Learner</h3>
 
 <p align="center">
