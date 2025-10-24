@@ -2,13 +2,13 @@
 
 <!-- Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:1F6FEB&height=200&section=header&text=Bhawandeep%20👨‍💻&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1E1E,100:000000&height=200&section=header&text=Bhawandeep%20👨‍💻&fontSize=50&fontColor=E6EDF3&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <h3 align="center">🌐 Web Developer • Jack of All Trades • Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Crafting+code+that+feels+alive;Bridging+logic+with+creativity;Building+for+the+web+and+beyond." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=8B949E&center=true&vCenter=true&width=600&lines=Crafting+code+that+feels+alive;Bridging+logic+with+creativity;Building+for+the+web+and+beyond." alt="Typing SVG" />
 </p>
 
 ---
