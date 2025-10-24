@@ -14,7 +14,7 @@
 - 💡 I’m a **Web Developer** who loves building aesthetic, functional, and fast web experiences.  
 - ⚙️ Fluent in **PHP**, **MySQL**, **React**, and **C++** — balancing logic and design.  
 - 🌱 Currently exploring **new-gen web architectures** and **creative front-end design**.  
-- 🎯 Philosophy: *“Code should not only work — it should feel right.”*  
+- 🎯 Philosophy: *“Code is art.”*  
 - 🧩 I love experimenting with ideas and bringing them to life through code.
 
 ---
@@ -38,18 +38,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhawandeep&layout=compact&theme=github_dark&hide_border=true" height="165" />
 </p>
 
----
-
-### 🧩 Featured Projects
-*(You can later link your best repos here)*
-
-| Project | Description | Tech |
-|----------|--------------|------|
-| 🗒️ **Stikky** | A social platform where notes stick like thoughts | PHP, MySQL, HTML, JS |
-| 🎨 **ArtCave** | A creative hub connecting artists and enthusiasts | PHP, HTML, CSS |
-| 📚 **LibMan** | A modern library management system | PHP, MySQL |
-
----
 
 ### 🌐 Connect With Me
 
