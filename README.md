@@ -15,7 +15,7 @@
 
 ### 🧠 About Me
 
-- 💡 I’m a **Web Developer** who loves building aesthetic, functional, and fast web experiences.  
+- 💡 I’m a **Web Developer** who loves building functional and fast web experiences.  
 - ⚙️ Fluent in **PHP**, **MySQL**, **React**, and **C++** — balancing logic and design.  
 - 🌱 Currently exploring **new-gen web architectures** and **creative front-end design**.  
 - 🎯 Philosophy: *“Code is art.”*  
